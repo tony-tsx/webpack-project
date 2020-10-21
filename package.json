@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tony-tsx/webpack-project/issues"
   },
-  "homepage": "https://github.com/tony-tsx/webpack-project#readme"
+  "homepage": "https://github.com/tony-tsx/webpack-project#readme",
+  "devDependencies": {
+    "webpack": "^5.1.3"
+  }
 }
