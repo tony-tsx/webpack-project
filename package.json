@@ -1,0 +1,19 @@
+{
+  "name": "webpack-project",
+  "version": "1.0.0",
+  "description": "Apenas um projeto de webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tony-tsx/webpack-project.git"
+  },
+  "author": "Tony",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tony-tsx/webpack-project/issues"
+  },
+  "homepage": "https://github.com/tony-tsx/webpack-project#readme"
+}
